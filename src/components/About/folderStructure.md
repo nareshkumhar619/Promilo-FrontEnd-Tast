@@ -1,0 +1,45 @@
+```
+└── 📁src
+    └── .env
+    └── App.css
+    └── App.js
+    └── App.test.js
+    └── 📁components
+        └── 📁About
+            └── About.css
+            └── About.jsx
+        └── 📁Card
+            └── Card.css
+            └── Card.jsx
+        └── 📁Homepage
+            └── Homepage.css
+            └── HomePage.jsx
+        └── 📁Login
+            └── Login.css
+            └── Login.jsx
+        └── 📁MyCart
+            └── Cart.css
+            └── Cart.jsx
+        └── Navbar.jsx
+        └── 📁Signup
+            └── Signup.css
+            └── Signup.jsx
+    └── 📁Context
+        └── AuthContext.js
+        └── ProductContext.js
+    └── 📁GoogleAuth
+        └── config.js
+    └── 📁images
+        └── check.png
+        └── google.png
+        └── loginbg.jpg
+        └── prov-store.png
+        └── wrong.png
+    └── index.css
+    └── index.js
+    └── reportWebVitals.js
+    └── setupTests.js
+    └── 📁utils
+        └── TxtToSha256.js
+    └── validationRules.json
+```

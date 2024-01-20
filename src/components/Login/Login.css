@@ -1,0 +1,15 @@
+.imag {
+    height: 25rem;
+    width: 35rem;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    margin-left: 2rem;
+    margin-top: 4rem;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .imag {
+      margin-left: 1.5rem;
+      margin-top: -4rem;
+    }
+  }

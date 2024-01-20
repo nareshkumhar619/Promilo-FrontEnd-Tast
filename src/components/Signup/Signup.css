@@ -1,0 +1,6 @@
+.textcol {
+    background: linear-gradient(90deg, hsla(26, 100%, 68%, 1) 0%, hsla(183, 54%, 47%, 1) 81%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
