@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import validation from '../../validationRules.json'
 import { auth, provider } from '../../GoogleAuth/config'
 import { signInWithPopup } from 'firebase/auth'
-import image from '../../images/loginbg.jpg'
+import image from '../../images/images.jpeg'
 import store from '../../images/prov-store.png'
 import google from '../../images/google.png'
 import right from '../../images/check.png';
